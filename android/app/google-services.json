@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "675163547721",
+    "project_id": "flutter-firebase-practic-72eda",
+    "storage_bucket": "flutter-firebase-practic-72eda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675163547721:android:26f6ec6981d33012813798",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaiXZoI_70frevpZcjeDwbLIY3EmRKrps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
